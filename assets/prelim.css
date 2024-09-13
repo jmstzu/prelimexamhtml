@@ -22,10 +22,6 @@ body{
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
-#tx{
-    color: #ff5fa2;
-}
-
 .navbar-nav{
     margin-right: 10px;
     padding: 5px;
@@ -87,7 +83,6 @@ body{
 
 #abt2{
     margin-top: 200px;
-    color: #ff5fa2;
 }
 
 #lp1{
@@ -104,6 +99,33 @@ body{
     margin: 10px auto;
   }
 
-#cnt1{
-    margin-bottom: 100px;
+#cont{
+    height: 600px;
+}
+
+#lp1{
+    margin-top: 0% !important;
+}
+
+#lp2{
+    margin-top: 0% !important
+}
+
+#lt1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-bottom: 20px;
+}
+
+#c1{
+    width: max-content;
+    margin: 30px 0px;
+
+}
+
+#c1 a{
+    margin: 20px 40px;
+}
+
+#footer{
+    width: auto;
 }
